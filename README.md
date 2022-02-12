@@ -1,1 +1,0 @@
-# shamoss-wp
