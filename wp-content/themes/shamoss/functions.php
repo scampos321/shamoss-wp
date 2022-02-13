@@ -5,6 +5,11 @@
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
  * @package Shamoss
+ * 
+ * todo:	check out the @link url above. It will introduce you to the basics of WordPress Themes. This file is where you will want to begin working with overall functionallity of WordPress. It is essentially the "index" of a theme.
+ * 		I committed this directly in github, since I never have before. I'm cool with us getting together Once a week for a couple hours. That can be an easy loose schedule. I think you are eager and passionate, and very fun to work with, let alone bright.
+ *		I can't wait to see where you go Sebby. I'll help but you should demand Ethan give you some expectations. I am literally here as a guide, you have to teach yourself.
+ *		HMU. ~};]
  */
 
 if ( ! defined( '_S_VERSION' ) ) {
